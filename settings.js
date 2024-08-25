@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗫𝗟𝗜𝗖𝗢𝗡-𝗩𝟰-𝗠𝗗  𝐁𝐎𝐓                                                //
+//                                            𝗩𝟰                                               //
 //                                                                                                      //
 //                                         Ｖ：4.0                                                       //
 //                                                                                                      //
@@ -16,22 +16,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V4-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
+//  * @project_name : V4
+//  * @author : hamhandsme
+//  * @youtube : https://www.youtube.com/@hamhandsme
+//  * @description : V4 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: ahmmikun
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: hamhandsme
+//Telegram: t.me/hamhandsmee
+//GitHub: @butterflyinghigh
+//WhatsApp: +6283148296743
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@hamhandsme
+//   * Created By Github: butterflyinghigh.
+//   * Credit To Butterfly
+//   * © 2024 BUTTERFLY-V4.
 // ⛥┌┤
 // */
 
@@ -39,24 +39,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: butterfly" //ur yt chanel name
+global.socialm = "GitHub: butterflyinghigh" //ur github or insta name
+global.location = "Indonesian, Lahore, Sabzazar" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
-global.websitex = "https://youtu.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.botname = 'Butterfly-V4' //ur bot name
+global.ownernumber = ['6283148296743'] //ur owner number, dont add more than one
+global.ownername = 'Hamhandsme' //ur owner name
+global.websitex = "https://youtu.com/@hamhandsme"
+global.wagc = "https://whatsapp.com/channel/..."
 global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
+global.wm = "V4 Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.packname = "Butterfly"
+global.author = "MΛDΣ BY Butterfly"
+global.creator = "6283148296743@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["6283148296753"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
